@@ -1,0 +1,49 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: #dbecff;
+  line-height: 1.5; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px; }
+
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+  padding-left: 1em;
+  margin-bottom: 10px; }
+  ul li,
+  ol li {
+    padding: 0;
+    margin: 0; }
+
+a {
+  color: #4eb5ff;
+  text-decoration: none; }
+  a:hover {
+    color: #24a4ff; }
+
+fieldset dl {
+  display: flex;
+  margin: 0;
+  margin-bottom: 10px; }
+  fieldset dl dt {
+    width: 100px;
+    text-align: right; }
+  fieldset dl dd {
+    margin: 0;
+    padding-left: 5px;
+    flex: 1; }
+  fieldset dl:last-child {
+    margin-bottom: 0; }
