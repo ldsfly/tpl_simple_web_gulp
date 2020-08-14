@@ -6,10 +6,11 @@
 
 ## Then goto project dir & install npm packages
 
-`
+```
 cd [project_dir]
 npm install
-`
+```
+
 ## Start gulp
 
 `npm start`
